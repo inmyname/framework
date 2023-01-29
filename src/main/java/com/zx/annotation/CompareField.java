@@ -1,4 +1,4 @@
-package org.zx.annotation;
+package com.zx.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

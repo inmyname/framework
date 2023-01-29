@@ -1,4 +1,4 @@
-package org.zx.util;
+package com.zx.util;
 
 import java.util.Random;
 

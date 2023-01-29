@@ -1,9 +1,9 @@
-package org.zx.util;
+package com.zx.util;
 
 import java.lang.reflect.Field;
 import java.util.HashMap;
 import java.util.Map;
-import org.zx.annotation.CompareField;
+import com.zx.annotation.CompareField;
 
 /**
  * 用自定义注解比较属性值

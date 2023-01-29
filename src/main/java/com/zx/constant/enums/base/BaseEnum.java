@@ -1,4 +1,4 @@
-package org.zx.constant.enums.base;
+package com.zx.constant.enums.base;
 
 /**
  * 枚举基础类
