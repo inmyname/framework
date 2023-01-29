@@ -1,6 +1,6 @@
-package com.zx.constant.enums;
+package com.zx.enums;
 
-import com.zx.constant.enums.base.BaseEnum;
+import com.zx.enums.base.BaseEnum;
 
 /**
  * enum--demo
